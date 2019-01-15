@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://vigilant-montalcini-35c65f.netlify.com/* http://pods2.tech/:splat 301!
